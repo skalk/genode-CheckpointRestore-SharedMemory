@@ -1,5 +1,7 @@
 # Genode real-time capable checkpoint/restore mechanism
 
+*Checkpointing/Restore in core*
+
 Workflow
 
 1. Checkpoint a component A
